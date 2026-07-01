@@ -37,3 +37,4 @@ SaaSCoop is currently in a structuring phase and is not yet presented here as a 
 - `docs/release-standard.md`
 - `docs/documentation-standard.md`
 - `docs/open-source-readiness-checklist.md`
+- `docs/multilingual-documentation-standard.md`
