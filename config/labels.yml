@@ -1,0 +1,122 @@
+- name: kind:bug
+  color: d73a4a
+  description: Something is not working
+- name: kind:feature
+  color: a2eeef
+  description: New feature or request
+- name: kind:documentation
+  color: 0075ca
+  description: Documentation improvements
+- name: kind:question
+  color: d876e3
+  description: Question or clarification
+- name: kind:security
+  color: b60205
+  description: Security-related work
+- name: kind:governance
+  color: 5319e7
+  description: Governance, policy or process
+- name: kind:research
+  color: 0e8a16
+  description: Research-oriented work
+- name: kind:education
+  color: fbca04
+  description: Educational content
+
+- name: priority:critical
+  color: b60205
+  description: Critical priority
+- name: priority:high
+  color: d93f0b
+  description: High priority
+- name: priority:medium
+  color: fbca04
+  description: Medium priority
+- name: priority:low
+  color: c5def5
+  description: Low priority
+
+- name: status:triage
+  color: e4e669
+  description: Needs initial review
+- name: status:ready
+  color: 0e8a16
+  description: Ready to be worked on
+- name: status:in-progress
+  color: 1d76db
+  description: Work in progress
+- name: status:blocked
+  color: b60205
+  description: Blocked by dependency or decision
+- name: status:review
+  color: 5319e7
+  description: Under review
+- name: status:done
+  color: c2e0c6
+  description: Completed
+
+- name: area:ai
+  color: 5319e7
+  description: Artificial intelligence
+- name: area:data
+  color: 1d76db
+  description: Data, BI or analytics
+- name: area:education
+  color: fbca04
+  description: Education and learning
+- name: area:governance
+  color: 7057ff
+  description: Governance
+- name: area:community
+  color: 0e8a16
+  description: Community
+- name: area:website
+  color: c5def5
+  description: Website
+- name: area:opensource
+  color: bfdadc
+  description: Open source ecosystem
+- name: area:funding
+  color: fef2c0
+  description: Funding and sustainability
+- name: area:security
+  color: b60205
+  description: Security
+
+- name: good-first-issue
+  color: 7057ff
+  description: Good for newcomers
+- name: help-wanted
+  color: 008672
+  description: Extra attention is needed
+- name: needs-discussion
+  color: d4c5f9
+  description: Needs community or maintainer discussion
+- name: needs-maintainer-review
+  color: fef2c0
+  description: Needs maintainer review
+- name: needs-legal-review
+  color: b60205
+  description: Needs legal review
+- name: needs-accounting-review
+  color: d93f0b
+  description: Needs accounting review
+
+- name: oc:readiness
+  color: 5319e7
+  description: Open Collective readiness
+- name: oc:documentation
+  color: 0075ca
+  description: Open Collective documentation
+- name: oc:governance
+  color: 7057ff
+  description: Open Collective governance
+- name: oc:community
+  color: 0e8a16
+  description: Open Collective community
+- name: oc:funding
+  color: fef2c0
+  description: Open Collective funding
+- name: oc:risk
+  color: b60205
+  description: Open Collective risk
