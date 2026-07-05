@@ -1,40 +1,17 @@
-# SaaSCoop Standards
+# SaaSCoop Institutional Documentation Library
 
-Official standards, templates and automation assets for SaaSCoop repositories.
+This package adds the foundation for the SaaSCoop Institutional Documentation Library.
 
-## Purpose
+## Languages
 
-This repository provides reusable standards for SaaSCoop projects:
+- `docs/pt-BR`
+- `docs/en`
+- `docs/es`
 
-- repository structure
-- issue forms
-- pull request templates
-- labels
-- GitHub Actions
-- Markdown validation
-- YAML validation
-- link checking
-- Dependabot configuration
-- ADR templates
-- release templates
-- documentation standards
+## Included documents
 
-## Current status
-
-SaaSCoop is currently in a structuring phase and is not yet presented here as a formally incorporated cooperative.
-
-## Relationship with github-governance
-
-`github-governance` documents how SaaSCoop governs its GitHub organization.
-
-`saascoop-standards` provides reusable standards, templates and automation assets for repositories.
-
-## Main documents
-
-- `docs/repository-standard.md`
-- `docs/label-standard.md`
-- `docs/github-actions-standard.md`
-- `docs/release-standard.md`
-- `docs/documentation-standard.md`
-- `docs/open-source-readiness-checklist.md`
-- `docs/multilingual-documentation-standard.md`
+- `DOCUMENTATION_INDEX.md`
+- `DOCUMENTATION_ARCHITECTURE.md`
+- `TRANSLATION_WORKFLOW.md`
+- `DOCUMENT_TEMPLATE.md`
+- `GLOSSARY.md`
